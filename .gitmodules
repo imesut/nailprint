@@ -1,0 +1,6 @@
+[submodule "nailprint-ios"]
+	path = nailprint-ios
+	url = https://github.com/imesut/nailprint-ios.git
+[submodule "nailprint-backend"]
+	path = nailprint-backend
+	url = https://github.com/imesut/nailprint-backend.git
